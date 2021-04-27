@@ -12,10 +12,6 @@
 - провести исследовательский анализ данных;
 - попробовать разные модели с разными гиперпараметрами;
 
-## Описание данных
----
-- num_orders - количество заказов
-
 ## Используемые библиотеки
 ---
-pandas, numpy, statsmodels, sklearn, catboost, xgboost, matplotlib
+*pandas, numpy, statsmodels, sklearn, catboost, xgboost, matplotlib*
